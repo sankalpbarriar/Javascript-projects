@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500&family=Poppins:ital,wght@0,500;1,500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    background: linear-gradient(45deg,#0a0a0a,#3a4452);
+  }
+  
+  .container {
+    background-color: #fff;
+    padding: 50px 100px 50px 100px;
+    border-radius: 20px;
+  }
+  
+  h1 {
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  
+  textarea {
+    width: 500px;
+  }
+  
